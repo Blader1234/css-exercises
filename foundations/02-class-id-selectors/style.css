@@ -1,0 +1,21 @@
+.odd {
+    background-color: rgb(231, 84, 145); font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.odder {
+    font-size: 24px;
+}
+
+#two{
+    font-size: 34px; color: blue;
+
+}
+
+#three{
+    font-size: 45px;
+}
+#forth{
+    font-size: 24px; background-color: rgb(65, 150, 65); font-weight: bold;
+
+}
